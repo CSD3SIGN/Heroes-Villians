@@ -2,4 +2,4 @@
 
 ## Week 1
 
-[HTML Markup](https://CSD3SIGN.github.io/Heroes-Villians/index.html)
+[HTML Markup](https://github.com/CSD3SIGN/Heroes-Villians/blob/master/index.html)
