@@ -12,4 +12,6 @@
 
 ## TYPOGRAPHY 
 
-[Typography Web Poster]()
+[Steve Jobs Quote]()
+
+[Steve Jobs Quote Recreated](https://csd3sign.github.io/Heroes-and-Villains-Type-Poster/)
