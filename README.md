@@ -2,4 +2,4 @@
 
 ## HTML
 
-[HTML Markup](https://github.com/CSD3SIGN/Heroes-Villians/blob/master/index.html)
+[HTML Markup](https://csd3sign.github.io/Heroes-Villians/index.html)
