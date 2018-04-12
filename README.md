@@ -12,6 +12,6 @@
 
 ## TYPOGRAPHY 
 
-[Steve Jobs Quote]()
+[Steve Jobs Quote](https://github.com/CSD3SIGN/Heroes-Villians/blob/master/quote.jpg)
 
 [Steve Jobs Quote Recreated](https://csd3sign.github.io/Heroes-and-Villains-Type-Poster/)
