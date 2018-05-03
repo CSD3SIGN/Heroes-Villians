@@ -8,7 +8,7 @@
 
 [Digital Moodboard](https://niice.co/m/a80200c316e389e13dc9871c0b7ccb4f)
 
-[Style Tile]()
+[Style Tile](https://github.com/CSD3SIGN/Heroes-Villians/blob/master/Style%20Tile.png)
 
 ## TYPOGRAPHY 
 
